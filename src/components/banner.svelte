@@ -1,0 +1,1 @@
+<div id="background-banner" class="media-banner full-width image-defaults" />
